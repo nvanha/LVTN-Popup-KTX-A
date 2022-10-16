@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18116" appversion="6.1.15" start="node1">
+  <panorama id="node1">
+    <input levelbias="0.400" width="3367" overlap="1" levelingroll="0" height="3367" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" width="3367" height="3367"/>
+      <level predecode="0" preload="0" width="1683" height="1683"/>
+      <level predecode="0" preload="0" width="841" height="841"/>
+      <level predecode="1" preload="1" width="420" height="420"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="36">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-30.5435" pan="-90"/>
+      <max fovfisheye="360" tilt="30.5435" fovstereographic="270" pan="90" fov="120"/>
+    </view>
+    <userdata latitude="10.03367179" source="" comment="" longitude="105.76991916" copyright="" heading="36" datetime="" customnodeid="" info="" author="" description="" title="" tags="LVTN-Popup-KTX-A" nodeid="node1"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" background="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" border="1" enabled="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot target="_blank" description="&lt;div style=&quot;border-bottom: 1px solid #ccc; margin-bottom: 10px;&quot;>&lt;img src=&quot;https://nvanha.github.io/LVTN-Popup-KTX-B/assets/logo.png&quot; alt=&quot;logo-ctu&quot; style=&quot;display: block; max-width: 50%; margin: 0 auto&quot; />&lt;/div>&lt;div style=&quot;color: #007bff; font-size: 16px; font-weight: bold; margin-bottom: 8px;&quot;>KÝ TÚC XÁ KHU B&lt;/div>&lt;div style=&quot;color: #2f2f2e; font-size: 16px; margin-bottom: 8px;&quot;>&lt;span style=&quot;font-weight: bold;&quot;>Địa chỉ: &lt;/span>2QJ7+3P9, Xuân Khánh, Ninh Kiều, Cần Thơ.&lt;/div>&lt;div style=&quot;color: #2f2f2e; font-size: 16px; margin-bottom: 8px;&quot;>&lt;span style=&quot;font-weight: bold;&quot;>Mô tả: &lt;/span>Gồm 08 dãy nhà 5 tầng &lt;i>(với tổng diện tích xây dựng 6.000 m2, tổng diện tích sàn 35.000 m2, thuộc loại công trình dân dụng cấp III. Tổng mức đầu tư dự kiến ban đầu gần 250 tỷ đồng).&lt;/i> Theo thiết kế, mối dãy có 78 phòng; mỗi phòng bố trí 08 sinh viên &lt;i>(lắp đặt 04 giường tầng)&lt;/i>. Tổng sức chứa KTX-B gần 5.000 sinh viên.&lt;/div>&lt;div style=&quot;color: #2f2f2e; font-size: 16px; margin-bottom: 8px;&quot;>&lt;span style=&quot;font-weight: bold; display: block;&quot;>Những tiện ích dành cho SV nội trú: &lt;/span>&lt;ul style=&quot;margin: 5px 0 0;&quot;>&lt;li>Wifi tốc độ kết nối là 14Mbps/14Mbps (download/upload), miễn phí gởi xe đạp.&lt;/li>&lt;li>Có hệ thống siêu thị mini, nhà xe, nhà ăn.&lt;/li>&lt;li>Khu vui chơi, luyện tập TDTT cho SV.&lt;/li>&lt;li>SV trả tiền điện, nước theo chỉ số sử dụng thực tế. Mức tính giá điện, nước theo giá tiêu dùng hộ gia đình&lt;/li>&lt;/ul>&lt;/div>&lt;div style=&quot;color: #2f2f2e; font-size: 16px;&quot;>&lt;span style=&quot;font-weight: bold; display: block; margin-bottom: 8px;&quot;>Hình ảnh: &lt;/span>&lt;img src=&quot;https://nvanha.github.io/LVTN-Popup-KTX-B/assets/detail.png&quot; alt=&quot;ktx-b&quot; style=&quot;display: block; max-width: 100%; box-shadow: 0 4px 4px rgba(0,0,0,0.15); border-radius: 5px;&quot; />&lt;/div>" title="" id="Poly01" url="">
+        <polystring>-328.42/9.29|-328.83/-4.92|-309.55/-3.28|-309.01/7.74</polystring>
+      </polyhotspot>
+      <hotspot target="" distance="3.71542" tilt="0" customimagewidth="55" pan="-80" fov="10" distance3D="314.326" customimageheight="55" use3D="0" skinid="ht_node" description="" title="" customimage="media/next.png" id="Point01" url="{node2}"/>
+      <hotspot target="" distance="3.71542" tilt="0" customimagewidth="55" pan="-280" fov="10" distance3D="314.326" customimageheight="55" use3D="0" skinid="ht_node" description="" title="" customimage="media/previous.png" id="Point02" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomafterinfov="90" zoomoutpause="1" blendtime="1" zoomafteroutfov="20" enabled="1" zoomin="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" speedwheel="1" hideabout="0" simulatemass="1" contextfullscreen="1" invertwheel="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" width="3476" overlap="1" levelingroll="0" height="3476" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" width="3476" height="3476"/>
+      <level predecode="0" preload="0" width="1738" height="1738"/>
+      <level predecode="0" preload="0" width="869" height="869"/>
+      <level predecode="1" preload="1" width="434" height="434"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-167">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-19.2898" pan="-90"/>
+      <max fovfisheye="360" tilt="19.2898" fovstereographic="270" pan="90" fov="120"/>
+    </view>
+    <userdata latitude="10.03366122" source="" comment="" longitude="105.76988697" copyright="" heading="-167" datetime="" customnodeid="" info="" author="" description="" title="" tags="LVTN-Popup-KTX-A" nodeid="node2"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" background="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" border="1" enabled="1" textalpha="1" borderalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot target="" distance="3.71542" tilt="0" customimagewidth="55" pan="-280" fov="10" distance3D="314.326" customimageheight="55" use3D="0" skinid="ht_node" description="" title="" customimage="media/previous.png" id="Point01" url="{node1}"/>
+      <hotspot target="" distance="3.71542" tilt="0" customimagewidth="55" pan="-80" fov="10" distance3D="314.326" customimageheight="55" use3D="0" skinid="ht_node" description="" title="" customimage="media/next.png" id="Point02" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomafterinfov="90" zoomoutpause="1" blendtime="1" zoomafteroutfov="20" enabled="1" zoomin="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" speedwheel="1" hideabout="0" simulatemass="1" contextfullscreen="1" invertwheel="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" source="" comment="" longitude="" copyright="" heading="0" datetime="" customnodeid="" info="" author="" description="" title="" tags="" nodeid="master"/>
+  </masternode>
+</tour>
